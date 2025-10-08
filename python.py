@@ -299,4 +299,4 @@ if st.session_state['extracted_data'] is not None:
         st.error(f"Có lỗi xảy ra khi tính toán chỉ số: {e}. Vui lòng kiểm tra các thông số đầu vào.")
 
 else:
-    st.info("Vui lòng tải lên file Word và nhấn nút 'Trích xuất Dữ liệu Tài chính bằng AI' để bắt đầu.")16:55/-strong/-heart:>:o:-((:-hXem trước khi gửiThả Files vào đây để xem lại trước khi gửi
+    st.info("Vui lòng tải lên file Word và nhấn nút 'Trích xuất Dữ liệu Tài chính bằng AI' để bắt đầu.")
